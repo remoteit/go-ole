@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	ole "github.com/go-ole/go-ole"
+	ole "github.com/remoteit/go-ole"
 )
 
 // ConnectObject creates a connection point between two services for communication.

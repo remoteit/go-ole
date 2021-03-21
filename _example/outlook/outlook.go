@@ -5,8 +5,8 @@ package main
 import (
 	"fmt"
 
-	ole "github.com/go-ole/go-ole"
-	"github.com/go-ole/go-ole/oleutil"
+	ole "github.com/remoteit/go-ole"
+	"github.com/remoteit/go-ole/oleutil"
 )
 
 func main() {
