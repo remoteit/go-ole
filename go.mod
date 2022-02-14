@@ -1,5 +1,5 @@
 module github.com/remoteit/go-ole
 
-go 1.12
+go 1.17
 
-require golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3
+require golang.org/x/sys v0.0.0-20220209214540-3681064d5158
